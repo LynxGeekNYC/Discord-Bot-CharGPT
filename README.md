@@ -18,3 +18,12 @@ To create a Discord bot that connects to ChatGPT, you will need to use Python or
 7.) If the message is a command for ChatGPT, extract the text of the message and pass it as input to ChatGPT using its API.
 Retrieve the response from ChatGPT and send it back to the Discord server as a message.
 
+# Was this script helpful to you? Please donate:
+
+I put a lot of work into these scripts so please donate if you can. Even $1 helps!
+
+PayPal: alex@alexandermirvis.com
+
+CashApp / Venmo: LynxGeekNYC
+
+BitCoin: bc1q8sthd96c7chhq5kr3u80xrxs26jna9d8c0mjh7
